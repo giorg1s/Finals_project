@@ -1,0 +1,12 @@
+# Εικονικό περιβάλλον (Virtual Environment)
+venv/
+ENV/
+
+# Προσωρινά αρχεία της Python
+__pycache__/
+*.py[cod]
+
+# Αρχεία συστήματος
+.DS_Store
+Thumbs.db
+[cite_start]``` [cite: 101, 102, 103, 104, 105, 106, 107, 108, 109]
