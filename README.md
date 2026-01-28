@@ -62,21 +62,21 @@
 ---
 
 ## 4. Δομή Project & .gitignore (Μέρος Δ)
-[cite_start]Το αποθετήριο ακολουθεί την εξής δομή[cite: 72]:
-* [cite_start]`wp_manager.py`: Ο κύριος κώδικας του εργαλείου[cite: 14].
-* [cite_start]`.gitignore`: Περιλαμβάνει τον φάκελο `venv/` και προσωρινά αρχεία για τη διατήρηση της καθαρότητας και ασφάλειας του αποθετηρίου[cite: 74, 83].
-* [cite_start]`requirements.txt`: Οι απαραίτητες βιβλιοθήκες Python[cite: 70].
+[cite_start]Το αποθετήριο ακολουθεί την εξής δομή:
+* [cite_start]`finals.py`: Ο κύριος κώδικας του εργαλείου.
+* [cite_start]`.gitignore`: Περιλαμβάνει τον φάκελο `venv/` και προσωρινά αρχεία για τη διατήρηση της καθαρότητας και ασφάλειας του αποθετηρίου.
+* [cite_start]`requirements.txt`: Οι απαραίτητες βιβλιοθήκες Python.
 
 ---
 
 ## 5. Μελλοντικές Βελτιώσεις (GitHub Issues)
-[cite_start]Έχει δημιουργηθεί Issue στο GitHub για την προσθήκη δυνατότητας διαγραφής άρθρου[cite: 75].
+[cite_start]Έχει δημιουργηθεί Issue στο GitHub για την προσθήκη δυνατότητας διαγραφής άρθρου.
 
 ## 6. Screenshots
 **Screenshot1**
-![Περιγραφή εικόνας](images/first.png)
+![Screenshot1](images/first.png)
 
 ---
 
 **Screenshot2**
-![Άλλη εικόνα](images/second.png)
+![Screenshot2](images/second.png)
