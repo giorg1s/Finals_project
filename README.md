@@ -56,6 +56,10 @@
 [cite_start]Έχει δημιουργηθεί Issue στο GitHub για την προσθήκη δυνατότητας διαγραφής άρθρου[cite: 75].
 
 ## 6. Screenshots
-
+**Screenshot1**
 ![Περιγραφή εικόνας](images/first.png)
+
+---
+
+**Screenshot1**
 ![Άλλη εικόνα](images/second.png)
