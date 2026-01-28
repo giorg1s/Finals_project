@@ -16,7 +16,7 @@
 - [Μελλοντικές Βελτιώσεις](#5-μελλοντικές-βελτιώσεις-github-issues)
 - [Screenshots](#6-screenshots)
 - [Contributing](#contributing)
-- [License](#license)
+- [Contact](#contact)
 
 ---
 
@@ -79,3 +79,32 @@
 
 **Screenshot2**
 ![Screenshot2](images/second.png)
+
+## Contributing
+
+Contributions are welcome! Suggested workflow:
+
+1. Fork the repository.
+2. Create a branch for your feature/fix:
+```bash
+git checkout -b feature/YourFeature
+```
+3. Make changes and commit with a descriptive message:
+```bash
+git commit -m "Add feature description"
+```
+4. Push your branch:
+```bash
+git push origin feature/YourFeature
+```
+5. Open a Pull Request describing your changes.
+
+Please ensure accessibility and code clarity when contributing.
+
+---
+
+## Contact
+
+Giorgos Fyl  
+Email: giorgosinbond@gmail.com  
+GitHub: https://github.com/giorg1s
