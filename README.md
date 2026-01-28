@@ -54,3 +54,8 @@
 
 ## 5. Μελλοντικές Βελτιώσεις (GitHub Issues)
 [cite_start]Έχει δημιουργηθεί Issue στο GitHub για την προσθήκη δυνατότητας διαγραφής άρθρου[cite: 75].
+
+## 6. Screenshots
+
+![Περιγραφή εικόνας](images/first.png)
+![Άλλη εικόνα](images/second.png)
